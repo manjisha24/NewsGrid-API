@@ -1,4 +1,6 @@
 # NewsGrid-API
+**Video link**: https://drive.google.com/file/d/1LvhXGz3DvSg9C_tP3ZjZ0wpsaDbaBNmz/view?usp=sharing
+
 **Introduction:**
 
 In today's fast-paced world, staying informed is essential. This project aims to create a dynamic and responsive news website that provides users with a wide range of news categories and the ability to search for news on any topic of interest. Built using HTML, CSS, and JavaScript, this website harnesses the power of APIs to deliver up-to-date news content, ensuring it can be accessed and enjoyed on any device.
