@@ -1,5 +1,8 @@
 # NewsGrid-API
+_This project uses News API, as a result it can be viewed from local server only. I plan on changing the API later on. For the time being, here's a video of its working._
+
 **Video link**: https://drive.google.com/file/d/1LvhXGz3DvSg9C_tP3ZjZ0wpsaDbaBNmz/view?usp=sharing
+
 
 **Introduction:**
 
@@ -19,7 +22,7 @@ In today's fast-paced world, staying informed is essential. This project aims to
 
 **Frontend:** HTML, CSS, JavaScript
 
-**API Integration:** APIs for fetching news data
+**API Integration:** News API for fetching news data
 
 **Project Objectives:**
 
