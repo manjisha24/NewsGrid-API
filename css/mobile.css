@@ -1,0 +1,45 @@
+/* Navigation */
+#main-nav .social{
+    display: none;
+}
+#main-nav .container{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content:center;
+}
+#main-nav ul, #main-nav .logo{
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    margin-bottom: 1rem;
+    justify-items: center;
+}
+#main-nav .nav-item{
+    justify-self: center;
+    /* padding: .5rem; */
+    font-weight: bold;
+    /* cursor: pointer; */
+    font-size:xx-small;
+}
+#main-nav .search-bar{
+    margin: 15px;
+    height:32px;
+    display: flex;
+    justify-content: center;
+}
+#main-nav .news-input{
+    width:70%;
+    height: 100%;
+    padding-inline: 12px;
+    border-radius: 5px;
+    border: 1px #333 solid;
+    font-family: 'Lato', sans-serif;
+    justify-self: center;
+}
+#main-footer .footer-container{
+    grid-template-columns: 1fr;
+    margin: 10px;
+}
+#main-footer .footer-container>*:last-child {
+    grid-column: 1;
+}
